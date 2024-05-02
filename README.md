@@ -103,6 +103,7 @@ if __name__ == '__main__':
 ### Notas:
 1. Hay que agregar la imagen y, en el código del cliente, hay que cambiar el path de la imagen por el de tu imagen.
 2. La clave de 16 bytes debe coincidir para que funcione la encriptación y desencriptación correctamente (ya hay una predeterminada que debe funcionarte). 
+3. Ya agregué una imagen para que puedas hacer la prueba.
 
 ## Proceso de ejecución
 1. Ejecutar el código del servidor con: **.../python3 servidor.py**
